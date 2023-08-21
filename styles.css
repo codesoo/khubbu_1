@@ -1,0 +1,40 @@
+body{
+    background-color: #9BABB8;
+}
+h1{
+    text-align: center;
+    color: #141E46;
+}
+.container{
+    border-radius: 20px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: #D2E9E9;
+    min-height: 1000px;
+    width: 80%;
+}
+#number_input{
+    width: 200px;
+    height: 35px;
+}
+button{
+    border-radius: 7px;
+    background-color: #1D5D9B;
+    color:white;
+    width: 90px;
+    height: 30px;
+    border-style: none;
+}
+.new_para{
+    text-align: center;
+    background-color: #F9F5F6;
+    color: rgb(21, 21, 21);
+    font-family: Georgia, "Times New Roman", Times, serif;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 20px;
+}
